@@ -12,3 +12,17 @@
 2025-07-27 20:30:53,836 - INFO - Initialized Binance USDT-M Futures client for testnet.
 2025-07-27 20:31:44,221 - INFO - Initialized Binance USDT-M Futures client for testnet.
 2025-07-27 20:31:44,509 - INFO - Market BUY order placed for 0.001 BTCUSDT. Order ID: 5483778416
+2025-07-27 20:49:50,422 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:49:51,659 - ERROR - Binance Client error placing limit order: (400, -4164, "Order's notional must be no smaller than 100 (unless you choose reduce only).", {'Content-Type': 'application/json', 'Content-Length': '100', 'Connection': 'keep-alive', 'Date': 'Sun, 27 Jul 2025 15:19:51 GMT', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS', 'Server': 'Bengine', 'x-mbx-used-weight-1m': '-1', 'x-mbx-order-count-10s': '0', 'x-mbx-order-count-1m': '0', 'x-response-time': '0ms', 'Access-Control-Allow-Origin': '*', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 f0f8e23c6013e314a14b46155fbdf3c8.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P8', 'X-Amz-Cf-Id': 'pd2Dl0YSlzFkY4f_1SphLC7jYmNqGojJbyRR2IAs3PUew9L6eo2nGw=='}, None)
+2025-07-27 20:50:44,437 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:50:44,634 - INFO - Market SELL order placed for 0.001 BTCUSDT. Order ID: 5483871451
+2025-07-27 20:51:01,335 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:51:01,583 - INFO - Market BUY order placed for 0.001 BTCUSDT. Order ID: 5483872109
+2025-07-27 20:52:44,828 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:52:45,269 - ERROR - Binance Client error placing limit order: (400, -4164, "Order's notional must be no smaller than 100 (unless you choose reduce only).", {'Content-Type': 'application/json', 'Content-Length': '100', 'Connection': 'keep-alive', 'Date': 'Sun, 27 Jul 2025 15:22:45 GMT', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS', 'Server': 'Bengine', 'x-mbx-used-weight-1m': '-1', 'x-mbx-order-count-10s': '0', 'x-mbx-order-count-1m': '0', 'x-response-time': '0ms', 'Access-Control-Allow-Origin': '*', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 939ebb4c94591bc9280e002e8719fe68.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P8', 'X-Amz-Cf-Id': 'TKhgfkowxoVWRP-oGje7xMecUR3AlYw3sGHA8lft79SfHGNuxwnXSQ=='}, None)
+2025-07-27 20:53:24,869 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:53:25,080 - INFO - Limit SELL order placed for 0.002 BTCUSDT at 60000.0. Order ID: 5483883138
+2025-07-27 20:59:58,408 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:59:58,665 - INFO - Market SELL order placed for 0.001 BTCUSDT. Order ID: 5483911455
+2025-07-27 21:00:15,329 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 21:00:15,536 - INFO - Market BUY order placed for 0.001 BTCUSDT. Order ID: 5483912170
