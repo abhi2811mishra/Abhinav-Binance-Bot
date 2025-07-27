@@ -65,7 +65,7 @@ bash
 Copy
 Edit
 # 1. Clone the repository
-git clone https://github.com/your-username/Abhinav_binance_bot.git
+git clone https://github.com/abhi2811mishra/Abhinav-Binance-Bot
 cd Abhinav_binance_bot
 
 # 2. Create virtual environment (recommended)
