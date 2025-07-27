@@ -1,4 +1,5 @@
 📈 Binance Futures Order Bot (CLI-Based)
+
 A command-line trading bot for Binance USDT-M Futures Testnet, supporting Market and Limit orders with robust input validation, logging, and error handling. This project is designed for the Junior Python Developer application task.
 
 📚 Table of Contents
