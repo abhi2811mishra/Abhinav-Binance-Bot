@@ -1,0 +1,14 @@
+2025-07-27 19:08:38,541 - ERROR - BINANCE_API_KEY and BINANCE_API_SECRET environment variables must be set.
+2025-07-27 19:11:17,363 - ERROR - BINANCE_API_KEY and BINANCE_API_SECRET environment variables must be set.
+2025-07-27 19:13:12,651 - ERROR - BINANCE_API_KEY and BINANCE_API_SECRET environment variables must be set.
+2025-07-27 19:50:51,425 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 19:50:51,670 - ERROR - Binance Client error placing market order: (401, -2015, 'Invalid API-key, IP, or permissions for action', {'Content-Type': 'application/json', 'Content-Length': '69', 'Connection': 'keep-alive', 'Date': 'Sun, 27 Jul 2025 14:20:51 GMT', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS', 'Server': 'Bengine', 'x-mbx-used-weight-1m': '-1', 'x-response-time': '2ms', 'Access-Control-Allow-Origin': '*', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 def392ff4d2e2594c6b8affeeeadc0f4.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P8', 'X-Amz-Cf-Id': 'KF9rhVL5hz_s7dwJWpr-qDXCTV0vapYEYVF5HkUsbbogXuBNg1xLvw=='}, None)
+2025-07-27 20:24:22,050 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:24:22,297 - INFO - Market BUY order placed for 0.001 BTCUSDT. Order ID: 5483744777
+2025-07-27 20:26:59,708 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:26:59,945 - INFO - Market SELL order placed for 0.001 BTCUSDT. Order ID: 5483757237
+2025-07-27 20:30:19,041 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:30:19,272 - INFO - Market SELL order placed for 0.001 BTCUSDT. Order ID: 5483772691
+2025-07-27 20:30:53,836 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:31:44,221 - INFO - Initialized Binance USDT-M Futures client for testnet.
+2025-07-27 20:31:44,509 - INFO - Market BUY order placed for 0.001 BTCUSDT. Order ID: 5483778416
